@@ -37,19 +37,19 @@ Specialized in modern JavaScript ecosystems, backend APIs, and AI integrations f
 ## Best Projects
 
 **AI Teach**  
-AI powered learning platform designed to improve educational experiences. <a href="https://aiteach.ziadhamada.me" target="_blank">Try the Project</a>
+AI powered learning platform designed to improve educational experiences. <a href="https://aiteach.ziadhamada.me" target="_blank">Live Demo</a>
 
 **Coursifie**  
-Platform for creating and managing modern online courses. <a href="https://coursifie.ziadhamada.me" target="_blank">Try the Project</a>
+Platform for creating and managing modern online courses. <a href="https://coursifie.ziadhamada.me" target="_blank">Live Demo</a>
 
 **Muster Help**  
-Support platform for managing requests and user assistance. <a href="https://muster.help/" target="_blank">Try the Project</a>
+Support platform for managing requests and user assistance. <a href="https://muster.help/" target="_blank">Live Demo</a>
 
 **Sajdah**  
-Islamic application project. <a href="https://sajdah.ziadhamada.me" target="_blank">Try the Project</a>
+Islamic application project. <a href="https://sajdah.ziadhamada.me" target="_blank">Live Demo</a>
 
 **Physics Register**  
-University system for managing physics lectures and registrations. <a href="https://physicsregistration.muster.help/" target="_blank">Try the Project</a>
+University system for managing physics lectures and registrations. <a href="https://physicsregistration.muster.help/" target="_blank">Live Demo</a>
 
 ---
 
