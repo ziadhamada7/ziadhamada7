@@ -3,25 +3,11 @@
 <h1 align="center">Hi 👋 I'm Ziad Hamada</h1>
 
 <p align="center">
-Fullstack & Apps Developer • AI Integrations • Backend Systems
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Integration+Engineer;Node.js+Backend+Developer;React+Native+Apps+Developer;Next.js+Developer&center=true&width=500&height=45">
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=180&section=header&text=Ziad%20Hamada&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-<h1 align="center">Ziad Hamada</h1>
-
-<p align="center">
 Fullstack & Mobile Applications Developer • AI Integrations • Backend Systems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Integration+Engineer;Node.js+Backend+Developer;React+Native+Developer;Next.js+Developer&center=true&width=500&height=40">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Integration+Engineer;Node.js+Backend+Developer;React+Native+Developer;Next.js+Developer&center=true&width=500&height=45">
 </p>
 
 ---
@@ -48,7 +34,7 @@ Specialized in modern JavaScript ecosystems, backend APIs, and AI integrations f
 
 ---
 
-## Selected Projects
+## Best Projects
 
 **AI Teach**  
 AI powered learning platform designed to improve educational experiences.
@@ -67,19 +53,19 @@ University system for managing physics lectures and registrations.
 
 ---
 
-## Connect
+## Contact
 
 <p align="center">
 
-<a href="https://ziadhamada.me">
+<a href="https://ziadhamada.me" target="_blanck">
 <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:ziadty16@gmail.com">
+<a href="mailto:ziadty16@gmail.com" target="_blanck">
 <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/781266651781922827">
+<a href="https://discord.com/users/781266651781922827" target="_blanck">
 <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
