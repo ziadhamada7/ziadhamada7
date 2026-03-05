@@ -12,101 +12,85 @@ Fullstack & Apps Developer • AI Integrations • Backend Systems
 
 ---
 
-# 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=180&section=header&text=Ziad%20Hamada&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-💻 Fullstack developer specialized in building modern web platforms and mobile applications.
-
-⚙️ Backend developer using **Node.js, Express, Python Flask**
-
-📱 Mobile apps developer using **React Native & Expo**
-
-🧠 Experienced in **integrating AI APIs into real-world applications**
-
-🌍 Building **scalable platforms, developer tools, and automation systems**
-
----
-
-# 🧠 Tech Stack
+<h1 align="center">Ziad Hamada</h1>
 
 <p align="center">
+Fullstack & Mobile Applications Developer • AI Integrations • Backend Systems
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,go,nextjs,react,express,flask,git,docker,vscode"/>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;AI+Integration+Engineer;Node.js+Backend+Developer;React+Native+Developer;Next.js+Developer&center=true&width=500&height=40">
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## About
 
-### 🧠 AI Teach
-AI powered educational platform designed to help students learn faster using AI tools.
+Fullstack developer focused on building scalable web platforms, backend systems, and mobile applications.
 
-### 🎓 Coursifie
-Platform for creating and hosting modern educational courses.
+Specialized in modern JavaScript ecosystems, backend APIs, and AI integrations for real-world applications.
 
-### 🛠 Muster Help
-Support system designed to manage help requests and communication.
+- Fullstack web development  
+- Backend systems using Node.js & Python  
+- Mobile development with React Native & Expo  
+- AI API integrations  
+- Scalable platforms and developer tools  
 
-### 🕌 Sajdah
-Islamic application.
+---
 
-### 📚 Physics Register
+## Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,go,nextjs,react,express,flask,git,docker,vscode" />
+</p>
+
+---
+
+## Selected Projects
+
+**AI Teach**  
+AI powered learning platform designed to improve educational experiences.
+
+**Coursifie**  
+Platform for creating and managing modern online courses.
+
+**Muster Help**  
+Support platform for managing requests and user assistance.
+
+**Sajdah**  
+Islamic application project.
+
+**Physics Register**  
 University system for managing physics lectures and registrations.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziadhamada7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhamada7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadhamada7&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
+## Connect
 
 <p align="center">
 
 <a href="https://ziadhamada.me">
-<img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:ziadty16@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/781266651781922827">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </p>
 
-Discord: **.hydr.a**
-
----
-
-# 👀 Profile Visitors
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ziadhamada7&style=for-the-badge&color=blueviolet"/>
-
+Discord: hydr.a
 </p>
 
 ---
 
-⭐ Building modern platforms, automation tools, and AI powered applications.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ziadhamada7&style=for-the-badge&color=111827"/>
+</p>
