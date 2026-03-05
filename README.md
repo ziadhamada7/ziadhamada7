@@ -29,7 +29,7 @@ Specialized in modern JavaScript ecosystems, backend APIs, and AI integrations f
 ## Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,go,nextjs,react,express,flask,git,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,go,nextjs,react,express,flask,git,docker,vscode,cursor" />
 </p>
 
 ---
