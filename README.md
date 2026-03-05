@@ -37,19 +37,19 @@ Specialized in modern JavaScript ecosystems, backend APIs, and AI integrations f
 ## Best Projects
 
 **AI Teach**  
-AI powered learning platform designed to improve educational experiences.
+AI powered learning platform designed to improve educational experiences. <a href="https://aiteach.ziadhamada.me" target="_blank">Try the Project</a>
 
 **Coursifie**  
-Platform for creating and managing modern online courses.
+Platform for creating and managing modern online courses. <a href="https://coursifie.ziadhamada.me" target="_blank">Try the Project</a>
 
 **Muster Help**  
-Support platform for managing requests and user assistance.
+Support platform for managing requests and user assistance. <a href="https://muster.help/" target="_blank">Try the Project</a>
 
 **Sajdah**  
-Islamic application project.
+Islamic application project. <a href="https://sajdah.ziadhamada.me" target="_blank">Try the Project</a>
 
 **Physics Register**  
-University system for managing physics lectures and registrations.
+University system for managing physics lectures and registrations. <a href="https://physicsregistration.muster.help/" target="_blank">Try the Project</a>
 
 ---
 
@@ -57,15 +57,15 @@ University system for managing physics lectures and registrations.
 
 <p align="center">
 
-<a href="https://ziadhamada.me" target="_blanck">
+<a href="https://ziadhamada.me" target="_blank">
 <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:ziadty16@gmail.com" target="_blanck">
+<a href="mailto:ziadty16@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/781266651781922827" target="_blanck">
+<a href="https://discord.com/users/781266651781922827" target="_blank">
 <img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
